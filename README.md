@@ -28,6 +28,7 @@ Perfect for showing what you're doing, tracking productivity, or building a cust
 
 ### 1. Clone the repository  (Visual Studio Code)
 ```git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git```
+
 ```cd YOUR-REPO```
 
 ---
@@ -131,6 +132,6 @@ MIT License — free to modify and redistribute.
 ---
 
 ## 📞 Community & Support
-Require additional support, want to make new friends or get help with code based situations on any OS? Join our discord: 
+Require additional support, want to make new friends or get help with code based situations on any OS? Join our discord: https://discord.gg/PBBV6JFE
 
 Enjoy the project! Raise issues or PRs in this repo for features, bugs, or improvements.
