@@ -1,7 +1,7 @@
 const RPC = require('discord-rpc');
 const activeWin = require('active-win');
 
-const clientId = '1412008225737543776';
+const clientId = 'DISCORD BOT APPLICATION ID HERE';
 const rpc = new RPC.Client({ transport: 'ipc' });
 
 rpc.on('ready', () => {
@@ -33,3 +33,4 @@ rpc.on('ready', () => {
 });
 
 rpc.login({ clientId }).catch(console.error);
+
